@@ -2,8 +2,13 @@ import java.util.Scanner;
 public class test {
 public static void main (String[]args)
 {
+<<<<<<< HEAD
 System.out.println("hello brother");
 System.out.println("hello mr.yousef");
+System.out.println("this is brunch "):
+=======
+
+>>>>>>> parent of 7435c44... Update testone
 
 }
 
